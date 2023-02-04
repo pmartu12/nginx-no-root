@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:1.22.1
 
 ARG UID=1001
 ARG GID=1001
